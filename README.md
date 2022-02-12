@@ -7,4 +7,4 @@ This implementation uses MVP architecture with a few simplifications for the gam
 
 # LICENCE
 
-Feel free to fork, copy, or use this code for your own needs. When using this code, please remember to leave credit to this repo, it will be much appreciated.
+Feel free to fork, copy, or use this code for your own needs. When using this code, please remember to give credit to this repo, it will be much appreciated.
